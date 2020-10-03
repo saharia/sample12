@@ -1,3 +1,47 @@
 1. Composer install to install all relevant packages
 
-2. 
+2. For API please use this collection link https://www.getpostman.com/collections/118ee86d0264769ea7d2
+
+3. For view the result to below
+
+
+Exercise 1
+
+2 i. http://localhost:8000/routers
+
+
+3 Please run php artisan db:seed 3
+
+4. Please user the url http://localhost:8000/canvas to see the result
+
+
+
+
+Exercise 2
+  1.a. telnet to server ->  http://localhost:8000/telnet
+
+  1.b. ssh to server ->  http://localhost:8000/ssh
+
+  1.c. get list of files ->  http://localhost:8000/files
+
+  1.e. copy files ->  http://localhost:8000/copyFiles
+
+  1.f. diskfreeSpace ->  http://localhost:8000/diskfreeSpace
+
+  2. please use the url http://localhost:8000/fileExtract 
+
+  5. I have attached the sql file to see.
+
+
+Exercise 3.
+  Please below the postman collection link
+  https://www.getpostman.com/collections/118ee86d0264769ea7d2
+
+  a.http://localhost:8000/api/router
+  b.http://localhost:8000/api/router
+  c.http://localhost:8000/api/router
+  d.http://localhost:8000/api/router
+  e.http://localhost:8000/api/router
+  f.http://localhost:8000/api/router
+
+
