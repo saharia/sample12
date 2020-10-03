@@ -5,16 +5,22 @@
 3. For view the result to below
 
 
-To create all table please run the below command
+To create all table please run the below command.
 
-php artisan migrate
+    php artisan migrate
 
 Exercise 1
+
+Please run below command to start the server
+
+    php artisan serve
 
 2 i. http://localhost:8000/routers
 
 
-3 Please run php artisan db:seed 3
+3 Please run 
+
+    php artisan db:seed 3
 
 4. Please user the url http://localhost:8000/canvas to see the result
 
