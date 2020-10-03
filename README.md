@@ -30,7 +30,7 @@ Exercise 2
 
   2. please use the url http://localhost:8000/fileExtract 
 
-  5. I have attached the sql file to see.
+  5. I have attached the sql file to see. path sql/
 
 
 Exercise 3.
