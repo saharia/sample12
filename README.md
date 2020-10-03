@@ -5,6 +5,10 @@
 3. For view the result to below
 
 
+To create all table please run the below command
+
+php artisan migrate
+
 Exercise 1
 
 2 i. http://localhost:8000/routers
