@@ -40,7 +40,10 @@ Exercise 2
 Exercise 3.
   Please below the postman collection link
   https://www.getpostman.com/collections/118ee86d0264769ea7d2
-
+    If any error you are facing to access the api. Please run the below command
+    
+    php artisan passport:install
+    
   I have created
   a.http://localhost:8000/api/auth/signup, api/auth/login
 
