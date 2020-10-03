@@ -37,17 +37,17 @@ Exercise 3.
   Please below the postman collection link
   https://www.getpostman.com/collections/118ee86d0264769ea7d2
 
-  I have crea
-  a.http://localhost:8000/api/router
+  I have created
+  a.http://localhost:8000/api/auth/signup, api/auth/login
 
   b.http://localhost:8000/api/router
 
-  c.http://localhost:8000/api/router
+  c.http://localhost:8000/api/router/update/ip
 
-  d.http://localhost:8000/api/router
+  d.http://localhost:8000/api/router/fetch/sapip
 
   e.http://localhost:8000/api/router
 
-  f.http://localhost:8000/api/router
+  f.http://localhost:8000/api/router/delete/ip
 
 
